@@ -1,0 +1,1 @@
+from .InlineQueryResult import InlineQueryResultCachedDocument, InlineQueryResultAudio
