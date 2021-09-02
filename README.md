@@ -42,7 +42,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/famouskaykay/raiya"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+    <a href="https://heroku.com/deploy?template=https://github.com/darkphoenix2601/doreamon-"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </p>
 
 <h1 align="center"> 
